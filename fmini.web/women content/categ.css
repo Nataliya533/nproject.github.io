@@ -1,0 +1,14 @@
+.h1{
+    color: rgb(0, 255, 213);
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20PX;
+    float: left;
+    padding-top: 10px;
+    transform: scale(1);
+    transition: 0.3s ease-in-out;
+}
+
+.h1:hover{
+    transform: scale(1.5);
+    }
